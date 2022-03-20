@@ -1,6 +1,7 @@
 ---
-title: Your first seed
+title: Your first note
 ---
+<img src="/assets/05A3332E-3147-454F-9E63-8DCF852BEE62_1_105_c.jpeg" width="100%"/>
 
 ### Welcome!
 
@@ -17,7 +18,7 @@ To link to another note, you can use multiple syntaxes. The following four use t
 
 Non-latin languages are supported too: [[안녕하세요]].
 
-Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your-first-note]], or even [[yOuR-FiRsT Note]].
+Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your first note]], or even [[yOuR-FiRsT Note]].
 
 In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
 
