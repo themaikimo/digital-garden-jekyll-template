@@ -78,6 +78,8 @@ And of course, images look great:
 
 <img src="/assets/image.jpg"/>
 
+<img src="/assets/05A3332E-3147-454F-9E63-8DCF852BEE62_1_105_c.jpeg"/>
+
 You can also ==highlight some content== by wrapping it with `==`.
 
 ### Code syntax highlighting
