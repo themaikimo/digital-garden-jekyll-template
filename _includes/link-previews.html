@@ -2,11 +2,14 @@
 <style>
   content a.internal-link {
     border-color: #8b88e6;
-    background-color: #efefff;
+    background-color: #efefff; 
   }
 
   #tooltip-wrapper {
-    background: white;
+	/* MWJ 20220321: Adjust bg color of note preview popups */
+    /* background: white; */
+	background: #faf0d9; /* Kindle Reader sepia */
+	
     padding: 1em;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -27,7 +30,11 @@
 		bottom: 0;
 		left: 0;
 		pointer-events: none;
-		background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%);
+
+		/* MWJ 20220321: Adjust bg color of note preview popups */
+		/* background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%); */
+		background-image: linear-gradient(to bottom, rgb(250,239,216, 0), rgb(252,246,230, 1) 90%);
+
 		width: 100%;
 		height: 75px;
   }
