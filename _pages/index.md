@@ -4,7 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #faf0d9; border-radius: 4px;">
@@ -20,10 +19,3 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     max-width: 46em;
   }
 </style>
-
-
-<!-- MWJ 20220321: Moved here from _layouts/note.html -->
-<hr />
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
-
-{% include notes_graph.html %}
