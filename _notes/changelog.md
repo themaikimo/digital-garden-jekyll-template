@@ -1,16 +1,7 @@
 ---
 ---
 
+- 2022-03-24 at 13h42 · [[index]]
+- 2022-03-24 at 13h31 · [[about]]
 - 2022-03-22 at 20h08 · [[graph]]
-- 2022-03-22 at 20h06 · [[index]]
-- 2022-03-22 at 20h01 · [[about]]
 - 2022-03-22 at 16h43 · [[my new digital garden]]
-- 2022-03-22 at 16h43 · [[improve my thinking]]
-- 2022-03-21 at 21h44 · [[working with garage door open]]
-- 2022-03-21 at 21h37 · [[bright sadness]]
-- 2022-03-21 at 10h10 · [[move your body every day]]
-- 2022-03-20 at 22h41 · [[title]]
-- 2022-03-20 at 12h44 · [[your first note]]
-- 2022-03-20 at 12h42 · [[consistency]]
-- 2022-03-19 at 23h26 · [[cats]]
-- 2022-03-19 at 23h26 · [[안녕하세요]]
