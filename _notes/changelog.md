@@ -1,7 +1,12 @@
 ---
 ---
 
-- 2022-03-24 at 13h42 · [[index]]
+- 2022-03-24 at 21h00 · [[domain history]]
+- 2022-03-24 at 20h44 · [[bright sadness]]
+- 2022-03-24 at 18h59 · [[my new digital garden]]
+- 2022-03-24 at 13h47 · [[index]]
 - 2022-03-24 at 13h31 · [[about]]
+- 2022-03-24 at 13h30 · [[improve my thinking]]
+- 2022-03-24 at 00h01 · [[zeigarnik effect]]
+- 2022-03-23 at 20h59 · [[working with garage door open]]
 - 2022-03-22 at 20h08 · [[graph]]
-- 2022-03-22 at 16h43 · [[my new digital garden]]
